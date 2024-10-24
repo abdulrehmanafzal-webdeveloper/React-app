@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abdulrehmanafzal-webdeveloper/weather-app/static/css/main.159041de.css",
-    "main.js": "/abdulrehmanafzal-webdeveloper/weather-app/static/js/main.b1fb796a.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/abdulrehmanafzal-webdeveloper/weather-app/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/newimage.jpg": "/abdulrehmanafzal-webdeveloper/weather-app/static/media/newimage.922887797a16ae28bf4a.jpg",
-    "index.html": "/abdulrehmanafzal-webdeveloper/weather-app/index.html",
-    "main.159041de.css.map": "/abdulrehmanafzal-webdeveloper/weather-app/static/css/main.159041de.css.map",
-    "main.b1fb796a.js.map": "/abdulrehmanafzal-webdeveloper/weather-app/static/js/main.b1fb796a.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/abdulrehmanafzal-webdeveloper/weather-app/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/abdulrehmanafzal-webdeveloper/React-app/static/css/main.159041de.css",
+    "main.js": "/abdulrehmanafzal-webdeveloper/React-app/static/js/main.cdce4bac.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/abdulrehmanafzal-webdeveloper/React-app/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/newimage.jpg": "/abdulrehmanafzal-webdeveloper/React-app/static/media/newimage.922887797a16ae28bf4a.jpg",
+    "index.html": "/abdulrehmanafzal-webdeveloper/React-app/index.html",
+    "main.159041de.css.map": "/abdulrehmanafzal-webdeveloper/React-app/static/css/main.159041de.css.map",
+    "main.cdce4bac.js.map": "/abdulrehmanafzal-webdeveloper/React-app/static/js/main.cdce4bac.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/abdulrehmanafzal-webdeveloper/React-app/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.159041de.css",
-    "static/js/main.b1fb796a.js"
+    "static/js/main.cdce4bac.js"
   ]
 }
