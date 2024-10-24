@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abdulrehmanafzal-webdeveloper/React-app/static/css/main.159041de.css",
-    "main.js": "/abdulrehmanafzal-webdeveloper/React-app/static/js/main.cdce4bac.js",
-    "static/js/453.0ccb7fb4.chunk.js": "/abdulrehmanafzal-webdeveloper/React-app/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/newimage.jpg": "/abdulrehmanafzal-webdeveloper/React-app/static/media/newimage.922887797a16ae28bf4a.jpg",
-    "index.html": "/abdulrehmanafzal-webdeveloper/React-app/index.html",
-    "main.159041de.css.map": "/abdulrehmanafzal-webdeveloper/React-app/static/css/main.159041de.css.map",
-    "main.cdce4bac.js.map": "/abdulrehmanafzal-webdeveloper/React-app/static/js/main.cdce4bac.js.map",
-    "453.0ccb7fb4.chunk.js.map": "/abdulrehmanafzal-webdeveloper/React-app/static/js/453.0ccb7fb4.chunk.js.map"
+    "main.css": "/my-app/static/css/main.159041de.css",
+    "main.js": "/my-app/static/js/main.3f71f0da.js",
+    "static/js/453.0ccb7fb4.chunk.js": "/my-app/static/js/453.0ccb7fb4.chunk.js",
+    "static/media/newimage.jpg": "/my-app/static/media/newimage.922887797a16ae28bf4a.jpg",
+    "index.html": "/my-app/index.html",
+    "main.159041de.css.map": "/my-app/static/css/main.159041de.css.map",
+    "main.3f71f0da.js.map": "/my-app/static/js/main.3f71f0da.js.map",
+    "453.0ccb7fb4.chunk.js.map": "/my-app/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.159041de.css",
-    "static/js/main.cdce4bac.js"
+    "static/js/main.3f71f0da.js"
   ]
 }
